@@ -1,18 +1,17 @@
-*
-{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
- 
+
 /* Navbar */
 .navbar{
-    display: flex;
+    display:flex;
     justify-content: center;
-    background-color: rgba(0red, 0green, 0blue, 0.5alpha);
+    align-items: center;
+    background: grey;
     position: sticky;
     top: 0;
-
 }
 .navbar ul{
     display: flex;
@@ -20,13 +19,20 @@
     margin: 20px 0px;
 }
 .navbar ul li{
-    font-family: century;
+    font-family: fantasy;
     font-size: 1.1rem;
     font-weight: bold;
 }
 .navbar ul li a{
     text-decoration: none;
     color: white;
-    padding: 8px 25px;
-    transition: all .5s ease;
+    padding:8px 25px;
+    transition: all .3s ease;
 }
+.navbar ul li a:hover{
+    background-color: black;
+    color:black
+    box-shadow:0 0 10px white
+}
+
+/*Home Section*/
