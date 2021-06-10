@@ -1,16 +1,27 @@
-# ip1 by Kepha Nyamweya
-my first independent project on portfolio
-the project majorly involves a portifolio of my name picture hobbies skills and my educational background from my time in primary to Moringa
-it has three parts that is the home page with my name and photo, about me page with my educational skills and hobbies and lasly the portfolio which doesnt have any projects yet
-here is alink to the github page "https://github.com/kephanyamweya/ip1.git"
+# My Portfolio
+.....
+#### created by {Kepha nyamweya}(https://github.com/kephanyamweya)
+
+## Description
+my first portfolio in Moringa school
+## Features
+-home page 
+-the about section
+-portfolio
+### known bugs
+no bugs as of yet.contact me if any pops up(kepha.nyamweya@gmail.com)
+### pre-requisites
+1)text editor. preferably visual studio code
+2)have a github account
+
+## setup process
+running this portfolio on your server or machine use the following steps:
 
 
+1)git clone `¬<your repository name>¬`
 
+2)cd `<repository name>` &&code .
 
-
-
-
-
-
+## license:MIT(https://github.com/kephanyamweya/ip1/community/license/new?branch=master&template=mit)
 
 
